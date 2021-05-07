@@ -1,0 +1,25 @@
+.navbar-container{
+    box-shadow: 0px 5px 9px #f007b377;
+    position: fixed;
+    width: 100%;
+}
+.navbar{
+    text-align: right;
+    background-color: #120330;
+    line-height: 70px;
+    
+}
+.navbar a, .added-friend{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 400;
+    padding: 10px 23px;
+    margin-right: 30px;
+    color: white;
+    background-color: orange;
+    border-radius: 5px;
+    transition: all 0.5s ease-in 0.5s;
+}
+.navbar a:hover{
+    background-color: rgb(83, 41, 212);
+}

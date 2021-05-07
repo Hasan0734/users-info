@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+}
+.user-container{
+    margin-top: 100px;
+    width: 80%;
+    margin-left: 40px;
+    padding: 30px;
+}
+.add-container{
+    position: fixed;
+    margin-left: 86%;
+    margin-top: 125px;
+}
